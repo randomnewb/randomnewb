@@ -8,5 +8,5 @@ Software developer with technical skill in React.js framework, Node.js, and Post
 ![](https://github-readme-stats.vercel.app/api?username=randomnewb&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=randomnewb&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <br><br>
-![Codewars](https://www.codewars.com/users/randomnewb/badges/large)
+[![Codewars Badge](https://www.codewars.com/users/randomnewb/badges/large)](https://www.codewars.com/users/randomnewb/completed_solutions)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
