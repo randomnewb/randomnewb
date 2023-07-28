@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer with technical skill in React.js framework, Node.js, and PostgresSQL.<br><br>Currently developing an asynchronous, multiplayer RPG in React.<br><br>I am currently expanding my knowledge on design patterns and researching TypeScript.<br><br>Ask me about my hobbies! Particularly, dance, game design, heuristics, and cooking.<br><br>Fun Fact: I was a special education teacher for individuals on the spectrum for over 3 years.
+Software developer with technical skill in React.js framework, Node.js, and PostgresSQL.<br><br>I am currently expanding my knowledge on design patterns and algorithms.<br><br>Ask me about my hobbies! Particularly, dance, game design, heuristics, and cooking.<br><br>Fun Fact: I was a special education teacher for individuals on the spectrum for over 3 years.
 
 
 # 💻 Tech Stack:
