@@ -1,2 +1,8 @@
-# 💫 About Me:
-Software developer familiar with the PERN stack.<br><br>I am expanding my knowledge on design patterns and algorithms and building games with PhaserJS and Godot!
+# About Me:
+I studied Full Stack Software Engineering via Prime Digital Academy.
+<br/>
+I am familiar with Javascript, React, Websockets, and PostgreSQL.
+<br/>
+I've developed various games and apps with Godot and PhaserJS.
+<br/>
+You can view my living portfolio with many interactive and playable apps and demos here: https://2nguyen.dev/
